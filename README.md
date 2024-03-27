@@ -1,4 +1,4 @@
-# ECREMMOCE React Boilerplate
+#React Boilerplate
 
 ##### 시작하기
 ```
