@@ -26,9 +26,6 @@ React lazy 활용
 const Component = lazy(() => import('./domain/example/Component'));
 ```
 
-##### 주의사항
-2022년 9월기준으로 작성되어 현재 패턴과는 맞지 않을 수 있습니다.
-
 
 ##### 적용된 모듈 및 라이브러리
 - [Progressive Web App (PWA)](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
