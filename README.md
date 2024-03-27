@@ -1,4 +1,4 @@
-#React Boilerplate
+# React Boilerplate
 
 ##### 시작하기
 ```
@@ -27,8 +27,7 @@ const Component = lazy(() => import('./domain/example/Component'));
 ```
 
 ##### 주의사항
-해당 보일러 플레이트는 프로젝트 진행 전에 따온것으로  
-2022년 9월기준으로 작성되어 있습니다.
+2022년 9월기준으로 작성되어 현재 패턴과는 맞지 않을 수 있습니다.
 
 
 ##### 적용된 모듈 및 라이브러리
